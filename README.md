@@ -25,4 +25,4 @@ Os arquivos estarão em `dist/`:
 - npm
 
 ## Gerado por
-[APK Builder](https://replit.com) — Maikon Caldeira
+[APK Builder](https://maikon.advogado.mg@gmail.com) — Maikon Caldeira
